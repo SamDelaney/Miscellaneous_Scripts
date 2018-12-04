@@ -3,6 +3,7 @@ A central respository for the various standalone scripts I have produced for cla
 
 *Ada*:
 
+
 **Minesweeper**: A very rudimentary text-based Minesweeper game. Written for CMPT 360 at Trinity Western University in the fall of 2018
 
 *Delphi*:
