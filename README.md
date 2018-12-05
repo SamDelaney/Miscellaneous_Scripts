@@ -21,7 +21,7 @@ Implements a Sieve of Erastosthenes and displays its output in a simple Android 
 ##### **JSAndroidSieve**
 Implements a Sieve of Erastosthenes and displays its output in a simple Android app. Was compared against **JavaAndroidSieve**. Written for CMPT 360 at Trinity Western Univerity in the fall of 2018.
 
-### *LISP*
+### *Common LISP*
 
 ##### **ListFactorialTiming**
 Experiments with LISP's BigInt type and how dynamic sizing affects computational speed. Written as a personal experiment in the fall of 2018.
@@ -30,3 +30,8 @@ Experiments with LISP's BigInt type and how dynamic sizing affects computational
 
 ##### **ListSquire**
 Demonstrates a doubly linked list in a very basic note-taking application. Written for CMPT 360 at Trinity Western Univerity in the fall of 2018.
+
+### *R*
+
+##### **xorwow**
+An incomplete implementation of the xorwow random number generator published by George Marsaglia in 2003. Written for CMPT 360 at Trinity Western Univerity in the fall of 2018.
